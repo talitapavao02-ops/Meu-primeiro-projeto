@@ -1,3 +1,3 @@
 let nome = "Talita";
 
-console.log("Olá, " + nome);
+console.log("Olá, Talita !" );
